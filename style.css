@@ -42,7 +42,7 @@ button {
 }
 
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .board {
     grid-template-columns: repeat(3, 80px);
     gap: 8px;
